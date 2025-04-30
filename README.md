@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/974939480.svg)](https://doi.org/10.5281/zenodo.15309242)
 # Retrospective_Particles
 Code for generation partical tracking plots by Benjamin I. Barton (NOC).
 
